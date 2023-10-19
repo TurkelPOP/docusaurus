@@ -1,0 +1,78 @@
+---
+sidebar_position: 1
+---
+
+
+# Comment configurer les widgets de l'accueil de MyCoach Pro?
+#### Personnaliser votre accueil
+
+1\. L'accueil est votre premier contact avec MyCoach Pro lors de votre connexion.\
+Nous l'avons donc rendu personnalisable par utilisateur afin qu'ils corresponde a vos besoin.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/139e1905-cba5-4036-876d-4d92a145d6cf/screenshot.png?tl_px=6,25&br_px=865,506&force_format=png&width=860)
+
+
+2\. Pour l'éditer, commencez par cliquer sur le bouton "**Éditer l'accueil**".
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/25c5043c-ab21-4321-9314-d1bec37d6064/ascreenshot.jpeg?tl_px=1700,0&br_px=2560,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=767,56)
+
+
+3\. Vous trouverez tout **en bas de la page un bouton** "**\+**", c'est ce dernier qui vous permettra d'**ajouter des widgets** parmi la liste disponible (elle varie selon vos droit et votre niveau d'accès).
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/12cbab7b-d04f-4e76-bc3b-f40eef6618ba/ascreenshot.jpeg?tl_px=2130,1042&br_px=2560,1283&force_format=png&width=430&wat_scale=38&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=355,193)
+
+
+4\. Exemple d'ajout d'un widget ***États de forme*** (nécessite les accès au module médical).
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/c2e0a411-1833-4c41-9f84-b1de34c12723/ascreenshot.jpeg?tl_px=596,742&br_px=1456,1223&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,212)
+
+
+5\. Une fois votre widget sélectionné, cliquez sur **SUIVANT**.\
+Donnez un titre à votre widget
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/94a5d9b3-34c2-46e7-8ce0-6a362dcca03d/ascreenshot.jpeg?tl_px=1583,802&br_px=2443,1283&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,406)
+
+
+6\. 
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/01f8f11d-bf3d-443a-929e-83f0c7a23bb9/ascreenshot.jpeg?tl_px=159,594&br_px=1019,1075&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,212)
+
+
+7\. Sélectionnez les états de forme que vous souhaitez voir sur ce widget.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/489c47e1-4e1f-4103-b5a9-e0b74b06a424/ascreenshot.jpeg?tl_px=83,679&br_px=943,1160&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,212)
+
+
+8\. Choisissez la **taille du widget et sa couleur** afin de mieux l'identifier (exemple rouge pour un widget concernant les joueurs blessés).\
+\
+Une fois votre widget paramétré, cliquez sur **TERMINÉ.**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/56d94ccd-1eb5-4109-94a0-b0433e8d91ca/ascreenshot.jpeg?tl_px=946,749&br_px=1806,1230&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,212)
+
+
+9\. 
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/50a101dd-e3a0-49ef-95fd-50bc983d3643/ascreenshot.jpeg?tl_px=1097,570&br_px=1957,1051&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,212)
+
+
+10\. 
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/f2232d51-8901-4467-8f28-46c8776832a1/ascreenshot.jpeg?tl_px=1700,737&br_px=2560,1218&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=452,212)
+
+
+11\. Vous avez la **possibilité de supprimer les widgets** dont vous n'avez pas besoin, afin de **ne pas "polluer" votre accueil avec des infos ou des widgets superflus.**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/6e3be03b-ca7b-445f-b764-73479eec5de3/ascreenshot.jpeg?tl_px=1280,78&br_px=2140,559&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,212)
+
+
+12\. 
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/c0aa12b1-93e8-4e8f-b996-2cb0e98828c6/ascreenshot.jpeg?tl_px=1103,486&br_px=1963,967&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=402,212)
+
+
+13\. Pour **quitter le mode édition**, cliquez sur le bouton en haut à droite "**Quitter le mode édition**".
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/0f126f94-4132-4098-ad48-8863aae806f1/ascreenshot.jpeg?tl_px=1700,0&br_px=2560,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=771,61)
+#### [Made with Scribe](https://scribehow.com/shared/Comment_configurer_les_widgets_de_laccueil_de_MyCoach_Pro__DuqpyZxySzWWkI8zqE1SMQ)
+
+

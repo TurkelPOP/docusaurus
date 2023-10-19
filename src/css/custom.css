@@ -67,3 +67,20 @@ html[data-theme="dark"] {
   --ifm-color-danger-contrast-background: rgb(75, 17, 19);
   --ifm-color-danger-contrast-foreground: rgb(255, 235, 236);
 }
+
+.text--truncate {
+font-size: x-large;
+}
+
+.navbar__link {
+  font-weight: bold;
+}
+
+[data-theme="dark"].button.button--secondary:hover {
+  color: rgb(250, 250, 250)
+}
+
+[data-theme="dark"].button:hover {
+  background-color: #08042d;
+
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Questionnaires",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Création, gestion et utilisation des questionnaires."
+  }
+}

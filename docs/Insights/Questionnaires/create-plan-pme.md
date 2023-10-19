@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Créer et planifier un PME'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Configurer et planifier un questionnaire "Wellness"?
-
+#### Proposez des questionnaire sans événements sportifs.
 
 1\. Pour configurer n'importe quel questionnaire sur MyCoach Pro, cliquez sur "**Insight**" &gt; "**Questionnaire**" &gt; "**Configuration**".
 
@@ -121,7 +121,6 @@ Vous pouvez cependant cliquer directement sur "**TERMINER**".
 
 20\. Voici votre planification.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-11/f0bfc944-0a9e-43bf-a6d1-08c1e39b79c1/screenshot.png?tl_px=0,0&br_px=1595,959&force_format=png&width=1120.0)
-#### [Made with Scribe](https://scribehow.com/shared/Comment_configurer_et_planifier_un_questionnaire_Wellness__kYOd5C9fQKyS4U7aehWVAA)
+
 
 

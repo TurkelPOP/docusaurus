@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Ajouter un joueur officiel FFF
+#### Profitez de la synchronisation FFF.
 
 1\. Dans le volet de gauche, cliquez sur le module **"JOUEURS"**
 
