@@ -9,6 +9,7 @@ sidebar_position: 1
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-08-08/a2948f76-5119-4003-99b5-e903caebade4/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=3,203)
 
 
+
 2\. Depuis cette vue, cliquez sur le bouton **"Actions"**\
 Choisissez **"Ajouter un joueur licencié"**
 
