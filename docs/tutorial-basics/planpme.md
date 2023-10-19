@@ -1,5 +1,9 @@
-# Comment configurer et planifier un questionnaire "Wellness"?
-#### [Made by Lucas Poirel with Scribe](https://scribehow.com/shared/Comment_configurer_et_planifier_un_questionnaire_Wellness__kYOd5C9fQKyS4U7aehWVAA)
+---
+sidebar_label: 'Créer et planifier un PME'
+sidebar_position: 2
+---
+
+# Configurer et planifier un questionnaire "Wellness"?
 
 
 1\. Pour configurer n'importe quel questionnaire sur MyCoach Pro, cliquez sur "**Insight**" &gt; "**Questionnaire**" &gt; "**Configuration**".
