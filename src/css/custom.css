@@ -75,12 +75,3 @@ font-size: x-large;
 .navbar__link {
   font-weight: bold;
 }
-
-[data-theme="dark"].button.button--secondary:hover {
-  color: rgb(250, 250, 250)
-}
-
-[data-theme="dark"].button:hover {
-  background-color: #08042d;
-
-}
