@@ -1,11 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 
-# Comment configurer les widgets de l'accueil de MyCoach Pro?
-#### Personnaliser votre accueil
-
+# Configurer les widgets de l'accueil
+#### Personnaliser et optimiser votre accueil
 1\. L'accueil est votre premier contact avec MyCoach Pro lors de votre connexion.\
 Nous l'avons donc rendu personnalisable par utilisateur afin qu'ils corresponde a vos besoin.
 
@@ -73,6 +72,5 @@ Une fois votre widget paramétré, cliquez sur **TERMINÉ.**
 13\. Pour **quitter le mode édition**, cliquez sur le bouton en haut à droite "**Quitter le mode édition**".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-09/0f126f94-4132-4098-ad48-8863aae806f1/ascreenshot.jpeg?tl_px=1700,0&br_px=2560,480&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=771,61)
-#### [Made with Scribe](https://scribehow.com/shared/Comment_configurer_les_widgets_de_laccueil_de_MyCoach_Pro__DuqpyZxySzWWkI8zqE1SMQ)
 
 
