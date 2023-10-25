@@ -42,9 +42,9 @@ html[data-theme="dark"] {
   --ifm-color-emphasis-800: var(--ifm-color-gray-200);
   --ifm-color-emphasis-900: var(--ifm-color-gray-100);
   --ifm-color-emphasis-1000: var(--ifm-color-gray-0);
-  --ifm-background-color: #232153;
-  --ifm-background-surface-color: #08042d;
-  --ifm-hover-overlay: rgba(255, 255, 255, 0.05);
+  --ifm-background-color: #08042d;
+  --ifm-background-surface-color: #232153;
+  --ifm-hover-overlay: rgba(37, 27, 27, 0.05);
   --ifm-color-content: #e3e3e3;
   --ifm-color-content-secondary: rgba(255, 255, 255, 1);
   --ifm-breadcrumb-separator-filter: invert(64%) sepia(11%) saturate(0%) hue-rotate(149deg) brightness(99%) contrast(95%);
@@ -77,10 +77,22 @@ font-size: x-large;
 }
 
 .footer--dark {
-    --ifm-footer-background-color: #08042d;
+    --ifm-footer-background-color: #232153;
 }
 
 .hero--primary {
-  --ifm-hero-background-color: #0b0359;
+  --ifm-hero-background-color: #08042d;
   --ifm-hero-text-color: #fafafa;
 }
+.breadcrumbs__item--active
+.breadcrumbs__link {
+  border: #08042d 1px solid;
+  font-weight: bold;
+  background: #ececec;
+  color: #0b0359;
+}
+.img_node_modules-\@docusaurus-theme-classic-lib-theme-MDXComponents-Img-styles-module {
+
+  border: white solid 1px;
+}
+

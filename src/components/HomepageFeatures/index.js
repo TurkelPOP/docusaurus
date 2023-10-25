@@ -4,23 +4,21 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Conçu pour les utilisateurs débutants comme avancés',
+    title: 'Facile à prendre en main',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nous avons conçu cette base de connaissance afin que vous puissiez retrouver les réponses à vos questions facilement, par modules.
       </>
     ),
   },
   {
-    title: 'Concentrez-vous sur les fonctionnalité que vous avez besoin de maîtriser',
+    title: 'Concentrez-vous sur les fonctionnalité que vous utilisez',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+        Selon votre rôle au sein de votre structure, vos accès a certains modules diffèrent. Vous pourrez aller à l'essentiel de votre utilisation en naviguant comme dans MyCoach Pro.
+         </>
     ),
   },
 ];
