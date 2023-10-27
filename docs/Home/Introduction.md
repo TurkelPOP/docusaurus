@@ -41,7 +41,7 @@ Chaque utilisateur peut avoir son propre accueil.
   
 ***
 
-### **2\. Onglet Alertes**
+### **2\. Alertes**
 
 L'onglet alertes vous permet d'observer les alertes déclenchées par vos joueurs lorsque ces derniers répondent à une question, par une réponse comportant une alerte.  
 En cas de blessure, **vous aurez par exemple la possibilité de créer une consultation médicale**. (nécessite des droits spécifiques sur le compte.)
