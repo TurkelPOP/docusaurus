@@ -38,4 +38,8 @@ La **création / planification** de ce type d'événement est possible **uniquem
 
 ### 2\. Les séances d'entraînement  
 
-L
+Vous pouvez **créer ou planifier vos séances d'entraînement** depuis le calendrier (Cette foncitonnalité est également disponible depuis le module **Séances**). Différents types de séances sont disponibles afin de les programmer avec précisions.
+  
+Tout comme pour les événements de suivi joueurs, vous pouvez **convoquer vos joueurs**, **proposer un questionnaire avant ou après l'événement** si vous en avez créer un pour le **contexte séance** depuis le module **Insights > Questionnaire**.
+
+

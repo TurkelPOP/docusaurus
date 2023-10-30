@@ -55,12 +55,17 @@ En cas de blessure, **vous aurez par exemple la possibilité de créer une consu
   
 Lorsque vous ajouter à un **dashboard Performance BI**, le contexte accueil, il apparaîtra directement dans cet onglet.  
 
-![alertes accueil](dashboard-home2.png)  
+![Perf BI accueil 1](dashboard-home2.png)  
 
 Si plusieurs Dashboards ont ce contexte, la liste apparaîtra comme ci-dessous:  
 
-![alertes accueil](dashboard-home1.png)  
+![Perf BI accueil 2](dashboard-home1.png)  
   
 Vous pourrez toutefois définir un dashboard par défaut pour cette vue en cliquant sur le bouton indiqué.
 
-![alertes accueil](default-dashboard-home.png)  
+![Perf BI accueil 3](default-dashboard-home.png)  
+
+Si vous le souhaitez, vous pouvez configurer vos onglets en cliquant sur le bouton **Gérer les tabs**, par exemple pour avoir accès dès votre connexion à vos **dashboards Performance BI configurés sur le contexte accueil**.  
+
+
+![Perf BI accueil 4](tabs-management.png)  
