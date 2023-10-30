@@ -86,7 +86,7 @@ font-size: x-large;
 }
 .breadcrumbs__item--active
 .breadcrumbs__link {
-  border: #08042d 1px solid;
+  border: #7a7a7a 2px solid;
   font-weight: bold;
   background: #ececec;
   color: #0b0359;
