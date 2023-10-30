@@ -84,15 +84,28 @@ font-size: x-large;
   --ifm-hero-background-color: #08042d;
   --ifm-hero-text-color: #fafafa;
 }
+
 .breadcrumbs__item--active
 .breadcrumbs__link {
+
   border: #7a7a7a 2px solid;
   font-weight: bold;
-  background: #ececec;
-  color: #0b0359;
+  background: #232153;
+  color: #d3d3d3;
 }
+
 .img_node_modules-\@docusaurus-theme-classic-lib-theme-MDXComponents-Img-styles-module {
 
-  border: white solid 1px;
+  border: rgb(204, 0, 0) solid 2px;
+  border-radius: 15px;
 }
 
+@media screen and (min-width: 280px) and (max-width: 412px) {
+
+.hero__title {
+  font-size: 1.7rem;
+  }
+.hero__subtitle {
+  font-size: 1.2rem;
+}
+}

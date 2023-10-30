@@ -1,11 +1,12 @@
 ---
+sidebar_label: Configurer des widgets
 sidebar_position: 2
 ---
 
 
-# Configurer les widgets de l'accueil 
+# Configurer des widgets
 
-## Personnaliser et optimiser votre accueil
+## Personnaliser votre accueil avec les widgets
 L'accueil est votre premier contact avec MyCoach Pro lors de votre connexion.\
 Nous l'avons donc rendu personnalisable par utilisateur afin qu'ils corresponde a vos besoin.
 
